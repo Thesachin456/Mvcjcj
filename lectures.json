@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Introduction to Web Development",
+    "description": "Learn the fundamentals of web development including HTML, CSS, and JavaScript. This comprehensive course covers everything you need to know to start building modern websites.",
+    "videoUrl": "https://www.youtube.com/watch?v=UB1O30fR-EE",
+    "notes": [
+      "HTML provides the structure of web pages",
+      "CSS handles the styling and layout",
+      "JavaScript adds interactivity and dynamic behavior",
+      "Modern web development uses frameworks like React, Vue, or Angular",
+      "Responsive design is essential for mobile compatibility"
+    ]
+  },
+  {
+    "title": "Advanced JavaScript Concepts",
+    "description": "Deep dive into advanced JavaScript topics including closures, prototypes, async/await, and modern ES6+ features that every developer should master.",
+    "videoUrl": "https://www.youtube.com/watch?v=Mus_vwhTCq0",
+    "notes": "This lecture covers advanced concepts like closures, which allow functions to access variables from their outer scope even after the outer function has returned. We also explore prototypal inheritance, the foundation of JavaScript's object-oriented programming model, and modern asynchronous programming patterns using promises and async/await syntax."
+  },
+  {
+    "title": "React Fundamentals",
+    "description": "Master the basics of React, including components, props, state management, and the component lifecycle. Perfect for beginners looking to build interactive user interfaces.",
+    "videoUrl": "https://www.youtube.com/watch?v=SqcY0GlETPk",
+    "notes": [
+      "Components are the building blocks of React applications",
+      "Props allow data to flow from parent to child components",
+      "State manages dynamic data within components",
+      "JSX provides a syntax extension for writing HTML-like code in JavaScript",
+      "The virtual DOM optimizes rendering performance",
+      "Hooks like useState and useEffect modernize React development"
+    ]
+  },
+  {
+    "title": "Database Design Principles",
+    "description": "Understanding database design fundamentals, normalization, relationships, and best practices for creating efficient and scalable database schemas.",
+    "videoUrl": "https://example.com/database-video",
+    "notes": [
+      "First Normal Form (1NF) eliminates duplicate columns",
+      "Second Normal Form (2NF) removes partial dependencies",
+      "Third Normal Form (3NF) eliminates transitive dependencies",
+      "Primary keys uniquely identify records",
+      "Foreign keys establish relationships between tables",
+      "Indexing improves query performance",
+      "ACID properties ensure database reliability"
+    ]
+  },
+  {
+    "title": "API Development with Node.js",
+    "description": "Learn how to build RESTful APIs using Node.js and Express. Covers routing, middleware, authentication, and best practices for backend development.",
+    "videoUrl": "https://www.youtube.com/watch?v=pKd0Rpw7O48",
+    "notes": "This comprehensive guide covers building robust APIs with Node.js and Express framework. We explore RESTful design principles, implementing CRUD operations, middleware for authentication and validation, error handling strategies, and security best practices including rate limiting and input sanitization."
+  },
+  {
+    "title": "CSS Grid and Flexbox Mastery",
+    "description": "Master modern CSS layout techniques with CSS Grid and Flexbox. Learn when to use each method and how to create responsive, flexible layouts.",
+    "videoUrl": "https://www.youtube.com/watch?v=jV8B24rSN5o",
+    "notes": [
+      "Flexbox is ideal for one-dimensional layouts",
+      "CSS Grid excels at two-dimensional layouts",
+      "Grid areas provide semantic layout definitions",
+      "Auto-fit and auto-fill create responsive grids",
+      "Flexbox alignment properties: justify-content, align-items, align-self",
+      "Grid gap property controls spacing between items",
+      "Both methods work together for complex layouts"
+    ]
+  },
+  {
+    "title": "Version Control with Git",
+    "description": "Essential Git commands and workflows for effective version control. Learn branching strategies, collaboration techniques, and best practices for team development.",
+    "videoUrl": "https://example.com/git-tutorial",
+    "notes": [
+      "Git tracks changes in your codebase over time",
+      "Branches allow parallel development of features",
+      "Merging combines changes from different branches",
+      "Pull requests facilitate code review processes",
+      "Commit messages should be clear and descriptive",
+      "Gitignore files exclude unnecessary files from tracking",
+      "Remote repositories enable team collaboration"
+    ]
+  },
+  {
+    "title": "Testing in JavaScript",
+    "description": "Comprehensive guide to testing JavaScript applications using Jest, testing best practices, unit tests, integration tests, and test-driven development.",
+    "videoUrl": "https://www.youtube.com/watch?v=7r4xVDI2vho",
+    "notes": "Testing is crucial for maintaining code quality and preventing regressions. This lecture covers different types of testing including unit tests for individual functions, integration tests for component interactions, and end-to-end tests for complete user workflows. We explore Jest testing framework, mocking strategies, and test-driven development (TDD) methodology."
+  }
+]
